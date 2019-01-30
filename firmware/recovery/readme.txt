@@ -1,0 +1,1 @@
+Flash firmware recovery file, to be used with Quartus programmed to restore the AnalogMax firmware to version 1.0
